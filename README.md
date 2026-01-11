@@ -2,6 +2,8 @@
   <img src="waylkog.png" alt="Wayfinder Logo" />
 </p>
 
+**Donation:** `AaURJSRB98NBFCsK3oKvPQE6b1RgTetj9hFhdfHqRT5a`
+
 # Wayfinder
 
 A* pathfinding-inspired swap route optimizer for Solana blockchain.
