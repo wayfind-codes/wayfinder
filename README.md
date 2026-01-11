@@ -4,6 +4,8 @@
 
 **Donation:** `AaURJSRB98NBFCsK3oKvPQE6b1RgTetj9hFhdfHqRT5a`
 
+**CA:** `3LkLXv1DD8tQcAVUAMCfkJ6D3FSdJXNoyrR1b7wqpump`
+
 # Wayfinder
 
 A* pathfinding-inspired swap route optimizer for Solana blockchain.
